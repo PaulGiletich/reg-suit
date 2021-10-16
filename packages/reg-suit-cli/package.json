@@ -26,14 +26,14 @@
   "dependencies": {
     "cp-file": "9.1.0",
     "ignore": "5.1.8",
-    "inquirer": "8.1.5",
+    "inquirer": "8.2.0",
     "reg-suit-core": "^0.10.17",
     "reg-suit-util": "^0.10.17",
     "yargs": "17.0.1"
   },
   "devDependencies": {
     "@types/cp-file": "6.1.2",
-    "@types/inquirer": "8.1.1",
+    "@types/inquirer": "8.1.3",
     "@types/yargs": "16.0.1",
     "reg-suit-interface": "^0.10.17",
     "typescript": "4.3.5"
