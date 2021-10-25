@@ -19,7 +19,7 @@ export interface PluginConfig {
 }
 
 export class S3PublisherPlugin extends AbstractPublisher implements PublisherPlugin<PluginConfig> {
-  name = "reg-publish-s3-plugin";
+  name = "reg-publish-s3-plugin-kms";
 
   private _options!: PluginCreateOptions<any>;
   private _pluginConfig!: PluginConfig;

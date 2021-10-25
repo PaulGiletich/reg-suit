@@ -1,5 +1,5 @@
 {
-  "name": "reg-publish-s3-plugin",
+  "name": "reg-publish-s3-plugin-kms",
   "version": "0.10.17",
   "description": "Fetch and publish snapshot images to AWS S3.",
   "regSuitPlugin": {
@@ -19,7 +19,7 @@
     "name": "Quramy",
     "email": "yosuke.kurami@gmail.com"
   },
-  "repository": "git+https://github.com/reg-viz/reg-suit.git",
+  "repository": "git+https://github.com/PaulGiletich/reg-suit.git",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.755.0",
